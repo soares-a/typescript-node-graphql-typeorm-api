@@ -1,6 +1,6 @@
 # API usando TypeScript/Node.js, TypeORM e GraphQL
 
-Este é um exemplo de API usando TypeScript, Node.js, TypeORM e GraphQL.
+Esta é uma API usando TypeScript, Node.js, TypeORM e GraphQL.
 
 ## Requisitos
 
